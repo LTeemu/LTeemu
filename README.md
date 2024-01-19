@@ -13,3 +13,7 @@ Spline Test [LINK](https://teemul-splinecubes.vercel.app)<br>
 Unity<br>
 2D Platformer [REPO](https://github.com/LTeemu/2D_Platformer)<br>
 SuperGod Game [MP4](https://github.com/LTeemu/LTeemu/blob/main/SGGameVideo.md)
+
+React Native<br>
+Spoonacular App [REPO](https://github.com/LTeemu/Spoonacular_app)<br>
+Battleship [REPO](https://github.com/LTeemu/Battleship)
