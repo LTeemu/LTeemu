@@ -9,7 +9,7 @@ SuperGod Website
 [PNG2](https://raw.githubusercontent.com/LTeemu/LTeemu/main/images/supergod_mobile.png)<br>
 Next13_two [LINK](https://teemul-next13two.vercel.app)<br>
 Spline Test [LINK](https://teemul-splinecubes.vercel.app)<br>
-DatoCMS Test [LINK](https://github.com/LTeemu/DatoCMS)<br>
+DatoCMS Test [REPO](https://github.com/LTeemu/DatoCMS)<br>
 <br>
 Unity<br>
 2D Platformer [REPO](https://github.com/LTeemu/2D_Platformer)<br>
