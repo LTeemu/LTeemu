@@ -19,6 +19,6 @@ SuperGod Game [MP4](https://github.com/LTeemu/LTeemu/blob/main/SGGameVideo.md)
 Spoonacular App [REPO](https://github.com/LTeemu/Spoonacular_app)<br>
 Battleship [REPO](https://github.com/LTeemu/Battleship)
 
-[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=plastic&logo=exercism&logoColor=white)](https://exercism.org/profiles/n9lete00/solutions)<br>
+[![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=plastic&logo=exercism&logoColor=white)](https://exercism.org/profiles/n9lete00/solutions?order=newest_first)<br>
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=plastic&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/lteemu/transcript/vj5nwh8zqnjnoe6)
 <!-- https://github.com/Ileriayo/markdown-badges -->
