@@ -1,6 +1,6 @@
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white)<br>
 Radio [LINK](https://teemul-svelteradio.vercel.app)<br>
-<br>
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)<br>
 Next13_one [LINK](https://teemul-next13one.vercel.app)<br>
 Thesis [LINK](https://teemul.vercel.app)<br>
@@ -10,7 +10,11 @@ SuperGod Website
 Next13_two [LINK](https://teemul-next13two.vercel.app)<br>
 Spline Test [LINK](https://teemul-splinecubes.vercel.app)<br>
 DatoCMS Test [REPO](https://github.com/LTeemu/DatoCMS)<br>
-<br>
+Wolt Frontend 2025 [REPO](https://github.com/LTeemu/wolt-frontend-2025)<br>
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)<br>
+Qt Frontend 2025 [REPO](https://github.com/LTeemu/qt-trainee2025) [LINK](https://teemul-qt-trainee2025.vercel.app/login)<br>
+
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)<br>
 2D Platformer [REPO](https://github.com/LTeemu/2D_Platformer)<br>
 SuperGod Game [MP4](https://github.com/LTeemu/LTeemu/blob/main/SGGameVideo.md)
